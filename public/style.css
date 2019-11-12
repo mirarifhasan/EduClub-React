@@ -550,3 +550,15 @@ label.mt10.valid {
     background: #3ee792;
     color: #ffffff;
 }
+
+/*---------------------------------
+    13. My Custom
+----------------------------------*/
+
+.displayflex {
+    display: flex;
+}
+
+.m20 {
+    margin: 20px;
+}
